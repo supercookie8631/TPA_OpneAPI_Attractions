@@ -1,6 +1,6 @@
 # TPA_OpenAPI_Attractions
 
-[English](#tpa_openapi_attractions) | [中文](#tpa_openapi_attractions-1)
+[English](#tpa_openapi_attractions) | [中文](https://github.com/supercookie8631/TPA_OpneAPI_Attractions/blob/main/README_zh_tw.md)
 
 A simple tourist attractions app developed using Taipei Open API.
 
